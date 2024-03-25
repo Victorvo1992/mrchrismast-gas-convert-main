@@ -1,0 +1,36 @@
+{
+  "name": "mrchrismast-gas-covert",
+  "version": "1.0.0",
+  "description": "mrchrismast-gas-covert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Victorvo1992/mrchrismast-gas-covert.git"
+  },
+  "keywords": [
+    "mrchrismast-gas-covert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "Victorvo1992",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Victorvo1992/mrchrismast-gas-covert/issues"
+  },
+  "homepage": "https://github.com/Victorvo1992/mrchrismast-gas-covert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "ftm-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+	"excel-utils-phuongdh": "^1.0.1",
+	"file-operations-dhp": "^1.0.2"
+
+  }
+}
